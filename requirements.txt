@@ -1,7 +1,7 @@
 altair==4.2.2
 attr==0.3.2
 ConfigParser==7.0.0
-cryptography==39.0.1
+cryptography
 dl==0.1.0
 docutils==0.18.1
 docutils==0.18.1
