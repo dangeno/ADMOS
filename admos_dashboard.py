@@ -20,13 +20,6 @@ from scipy.integrate import cumulative_trapezoid
 from scipy.integrate import cumtrapz
 import threading
 
-
-#importing PDF Items
-from reportlab.lib.pagesizes import letter
-from reportlab.pdfgen import canvas
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image, Table
-from reportlab.lib.styles import getSampleStyleSheet
-
 #plotting
 import matplotlib.pyplot as plt
 import io
